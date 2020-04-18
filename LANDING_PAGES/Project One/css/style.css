@@ -1,0 +1,144 @@
+
+html {
+    height: 100%;
+ 
+}
+
+body {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: 1fr auto;
+    font-family: 'Nunito', sans-serif;
+    color: white;
+}
+
+input{
+
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+}
+
+small{
+    font-size: 14px;
+
+}
+
+#sub-text1{
+
+    font-size: 50px;
+
+}
+
+
+#sub-text2{
+
+    color: #248de3;
+}
+
+#sub-text3{
+
+    font-size: 27px;
+}
+
+#sub-text4{
+
+    font-size: 24px;
+}
+
+#sub-text5 {
+
+    font-size: 56px;
+    color: #248de3;
+
+}
+
+#sub-text6 {
+
+    color:#7a7a7a;
+    font-size: 36px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+#sticky-footer {
+    flex-shrink: none;
+    background-color: #d1d1d1;
+    margin: 0;
+  
+}
+
+#footer{
+
+    margin-top:50px;
+
+
+}
+
+
+#container2{
+    margin-top: 60px;
+}
+
+#container3{
+    margin-top: 140px;
+    margin-bottom: 0px ;
+}
+
+
+.logo-tipo {
+    height: 115%;
+    margin-bottom: 80px;
+    margin-top: 30px;
+}
+
+.jumbotron{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('img/slider-01.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+
+.bloco_escuro{
+    background-color: rgba(0,0,0,0.5);
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+}
+
+
+
+div.row{
+    margin: 0;
+    padding: 0;
+
+}
+
+.borda {
+
+    border: 2px solid #248de3;
+
+}
+
+.form{
+
+    margin-top: 30px;
+}
+
+.botao-form{
+
+    margin-top: 10px;
+    padding: 20px;
+    background-color: #248de3;
+    font-size: 18px;
+    white-space: normal !important;
+
+}
+
+.espacamento{
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
