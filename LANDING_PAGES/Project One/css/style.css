@@ -100,7 +100,7 @@ small{
     padding: 0;
 }
 
-.bloco_escuro{
+.dark-block{
     background-color: rgba(0,0,0,0.5);
     background-size: cover;
     width: 100%;
@@ -115,7 +115,7 @@ div.row{
 
 }
 
-.borda {
+.border {
 
     border: 2px solid #248de3;
 
@@ -126,7 +126,7 @@ div.row{
     margin-top: 30px;
 }
 
-.botao-form{
+.single-form-button{
 
     margin-top: 10px;
     padding: 20px;
