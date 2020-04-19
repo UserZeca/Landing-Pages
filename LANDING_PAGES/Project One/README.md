@@ -1,8 +1,8 @@
 # Landing Page One 
 
 Well, this is the first project to be placed in this repository, and it is a page developed for an internship selection process. However,
-this project is intended to be just a source of learning and **all credits** for the **designer** and **page content** should be given to [Agencia Fast 
-Way](https://www.agenciafastway.com.br), the company responsible for the selection process.
+this project is intended to be just a source of learning and **all credits** for the **designer** and **page content** should be given to **[Agencia Fast 
+Way](https://www.agenciafastway.com.br)**, the company responsible for the selection process.
 
 ![page designer](https://github.com/UserZeca/Landing-Pages/blob/master/LANDING_PAGES/imgs-readme/project-one/img1.png)
 
