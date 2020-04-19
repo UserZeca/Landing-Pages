@@ -1,18 +1,1 @@
-*
-    -PÁGINA RELACIONADA AO PROCESSO SELETIVO DA AGẼNCIA FAST WAY
 
-
-    Bom basicamente essa página é baseada no template passado,
-    tentei ser o mais fiel possível.
-
-    Sobre Melhorias:
-    Melhoria podem ser ainda podem ser feitas como:
-    . Verificação de Email e validação
-    . Melhoria do script Js
-    . Melhor adaptação para mobile, já que mesmo responsivo, ainda é estranho navegar pela página.
-
-    Sobre Horario:
-
-    Começo: 8:30
-    Término: 22:06
-*
