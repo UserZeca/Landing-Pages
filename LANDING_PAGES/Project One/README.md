@@ -23,15 +23,10 @@ The development was made with the following technologies:
 
 The entire page was built responsively, using the **bootstrap** features, mainly the [grid system](https://getbootstrap.com.br/docs/4.1/layout/grid/).
 
-### Phone Mask
-  
-  
-  
- 
-  
-![phonemask](https://github.com/UserZeca/Landing-Pages/blob/master/LANDING_PAGES/imgs-readme/project-one/phonemask.gif?classes=float-left)
+* ### Phone Mask
+    ![phonemask](https://github.com/UserZeca/Landing-Pages/blob/master/LANDING_PAGES/imgs-readme/project-one/phonemask.gif?classes=float-left)
 
-The phone's mask is designed not to accept letters and special characters. For this, it uses functions and events, which control the     text field, so that the field is in the format (99) 99999-9999.
+    The phone's mask is designed not to accept letters and special characters. For this, it uses functions and events, which control the     text field, so that the field is in the format (99) 99999-9999.
 
 
 
