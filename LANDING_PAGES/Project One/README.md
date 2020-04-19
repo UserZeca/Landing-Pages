@@ -27,8 +27,7 @@ The entire page was built responsively, using the **bootstrap** features, mainly
     ![phonemask](https://github.com/UserZeca/Landing-Pages/blob/master/LANDING_PAGES/imgs-readme/project-one/phonemask.gif?classes=float-left)
 
     The phone's mask is designed not to accept letters and special characters. For this, it uses functions and events, which control the     text field, so that the field is in the format (99) 99999-9999.
-
-
+Este é um {c:red}texto vermelho.{/c}
 
 
 
