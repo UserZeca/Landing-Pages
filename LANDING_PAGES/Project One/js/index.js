@@ -21,7 +21,8 @@ function formsValidation(id,state){
  * @description: Function that activates the send buttonFunction that validates only letters for this field.
 */
 function nameFildValidation(event){
-    return (event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122);
+    return (event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122)
+            || event.charCode == 32;
 }
 //+-------------------------------------------------------------------------------------------------------------------+
 /**
@@ -143,7 +144,3 @@ window.onload = function(){
  
 }
 //+-------------------------------------------------------------------------------------------------------------------+
-
-
-
-
