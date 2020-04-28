@@ -26,7 +26,7 @@ You can also do the same for individual pages, just clone the desired folder fro
 **v1.0** April 18, 2020 - First page posted here:
 * Development of a web page,for an internship selection process.
 
-**v1.1** April 28, 2020 - New features in the [first subproject](https://github.com/UserZeca/Landing-Pages/tree/master/LANDING_PAGES/Project%20One):
+**v1.1** April 28, 2020 - New features in the **[first subproject](https://github.com/UserZeca/Landing-Pages/tree/master/LANDING_PAGES/Project%20One)**:
 * Email Address Validation.
 * Field name validation.
 * Forms Validation.
