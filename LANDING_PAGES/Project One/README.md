@@ -23,10 +23,30 @@ The development was made with the following technologies:
 
 The entire page was built responsively, using the **bootstrap** features, mainly the [grid system](https://getbootstrap.com.br/docs/4.1/layout/grid/).
 
-* ### Phone Mask
+* ## Form
+  
+  - ### Name Field
+    The name field allows only **letters** and **spaces** to be inserted.
+    ![namefield](https://github.com/UserZeca/Landing-Pages/blob/master/LANDING_PAGES/imgs-readme/project-one/nameField.gif)
+  
+  - ### Email Field
+    The name email, has a simple verification process.</br>
+    Only inputs, which follow the following rules, are accepted:
+    - Do not have spaces;
+    - Owning the @;
+    - Have some character after the @;
+    - Have some character before the @;
+    - Have at least one dot after the character after the @;
+    - Have some character after the period.
+
+    ![emailfield](https://github.com/UserZeca/Landing-Pages/blob/master/LANDING_PAGES/imgs-readme/project-one/emailField.gif)
+      
+    Note that the send button is enabled only when the email@domain.something format is reached.
+  
+  - ### Phone Mask
+    The phone's mask is designed not to accept letters and special characters. For this, it uses functions and events, which control the     text field, so that the field is in the format (99) 99999-9999.
     ![phonemask](https://github.com/UserZeca/Landing-Pages/blob/master/LANDING_PAGES/imgs-readme/project-one/phonemask.gif?classes=float-left)
 
-    The phone's mask is designed not to accept letters and special characters. For this, it uses functions and events, which control the     text field, so that the field is in the format (99) 99999-9999.
 
 
 
