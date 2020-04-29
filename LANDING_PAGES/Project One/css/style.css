@@ -117,8 +117,7 @@ div.row{
 
 .border {
 
-    border: 2px solid #248de3;
-
+    border: 0.1rem solid #248de3 !important;
 }
 
 .form{
