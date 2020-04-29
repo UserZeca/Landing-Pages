@@ -27,6 +27,7 @@ The entire page was built responsively, using the **bootstrap** features, mainly
   
   - ### Name Field
     The name field allows only **letters** and **spaces** to be inserted.
+    
     ![namefield](https://github.com/UserZeca/Landing-Pages/blob/master/LANDING_PAGES/imgs-readme/project-one/nameField.gif)
   
   - ### Email Field
