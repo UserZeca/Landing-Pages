@@ -32,10 +32,10 @@ function nameFildValidation(event){
  */
 function incorrectEmailAlert(obj){
     if(obj.valid){
-        console.log("1");
+     
         document.getElementById("invalidEmail").innerHTML="";
     }else{
-        console.log("2");
+     
         document.getElementById("invalidEmail").style.color="red";
         document.getElementById("invalidEmail").style.float="right";
         document.getElementById("invalidEmail").style.fontSize="0.75rem";
@@ -53,8 +53,6 @@ function emailAddressValidation(infomation){
     let user = obj.value.substring(0, obj.value.indexOf("@"));
     let domain = obj.value.substring(obj.value.indexOf("@") + 1, obj.value.length);
     
-    console.log("user: "+user);
-    console.log("domain: "+domain);
 
     if ((user.length >=1) &&
     (domain.length >=3) && 
