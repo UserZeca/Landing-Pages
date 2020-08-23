@@ -3,6 +3,7 @@
 
 # Basics Landing Pages
 ![Bootstrap icon](https://img.shields.io/badge/framework-bootstrap-blueviolet)
+![Js icon](https://img.shields.io/badge/JS-Javascript-yellow)
 
 This project was started with the aim of being a set of landing page templates and also presenting results of my learning in front-end development.
 
