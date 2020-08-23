@@ -1,13 +1,13 @@
 
 ---
 
-<h1>Basics Landing Pages</h1>
-
+# Basics Landing Pages
+![Bootstrap icon](https://img.shields.io/badge/framework-bootstrap-blueviolet)
 
 This project was started with the aim of being a set of landing page templates and also presenting results of my learning in front-end development.
 
 
-<h2>Getting Started</h2>
+## Getting Started
 
  Follow the options below if you want to download all content:
 
@@ -20,7 +20,7 @@ This project was started with the aim of being a set of landing page templates a
 
 You can also do the same for individual pages, just clone the desired folder from the repository or download it from github.
 
-<h2>Version logs</h2>
+## Version logs
 
 
 **v1.0** April 18, 2020 - First page posted here:
@@ -31,14 +31,14 @@ You can also do the same for individual pages, just clone the desired folder fro
 * Field name validation.
 * Forms Validation.
 
-<h2>Author</h2>
+## Author
 
 
 
 Ezequias Kluyvert -- <a href="https://www.instagram.com/zeca_info/" rel="instagram">@zeca_info</a> -- kluyvertoliveira@gmail.com
 
 
-<h2>License</h2>
+## License
 
 
 
