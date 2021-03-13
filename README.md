@@ -7,6 +7,10 @@
 
 This project was started with the aim of being a set of landing page templates and also presenting results of my learning in front-end development.
 
+## Application Demo First Demo
+
+Link: [Demo](https://userzeca.github.io/Landing-Pages/LANDING_PAGES/Project%20One/)
+
 
 ## Getting Started
 
